@@ -1,0 +1,15 @@
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.csprojAssemblyReference.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.AssemblyInfoInputs.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.AssemblyInfo.cs
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.csproj.CoreCompileInputs.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\ValheimBackup.exe
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\ValheimBackup.deps.json
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\ValheimBackup.runtimeconfig.json
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\ValheimBackup.runtimeconfig.dev.json
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\ValheimBackup.dll
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\ValheimBackup.pdb
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.dll
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.pdb
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.genruntimeconfig.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\netcoreapp3.1\System.Management.Automation.dll
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\netcoreapp3.1\ValheimBackup.csproj.CopyComplete

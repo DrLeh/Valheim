@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4N4LelOmegAy5iNq4IDSUqhxUwVmyxbyNvJFQpTAkCxcsieqIXEwSG4Tlt+7smyXZ4nmRbna1j8uYG6lssX6AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Valheim\\ValheimBackup\\ValheimBackup\\ValheimBackup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Devon\\.nuget\\packages\\microsoft.powershell.5.referenceassemblies\\1.1.0\\microsoft.powershell.5.referenceassemblies.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

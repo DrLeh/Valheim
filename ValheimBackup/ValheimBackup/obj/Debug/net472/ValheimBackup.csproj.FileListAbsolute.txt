@@ -1,0 +1,11 @@
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\net472\ValheimBackup.exe.config
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\net472\ValheimBackup.exe
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\net472\ValheimBackup.pdb
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\bin\Debug\net472\System.Management.Automation.dll
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.csprojAssemblyReference.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.AssemblyInfoInputs.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.AssemblyInfo.cs
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.csproj.CoreCompileInputs.cache
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.csproj.CopyComplete
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.exe
+C:\Projects\Valheim\ValheimBackup\ValheimBackup\obj\Debug\net472\ValheimBackup.pdb
