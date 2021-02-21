@@ -23,7 +23,7 @@ namespace ValheimBackup
 
             GitCommitAndPush();
             Console.WriteLine("Done");
-            Console.ReadLine();
+            //Console.ReadLine();
 
         }
 
